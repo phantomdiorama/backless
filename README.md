@@ -4,20 +4,10 @@ Some text editors have a mode which disables the backspace key: it usually calle
 ### Backless disables:
 
 <kbd>backspace</kbd>
-
 <kbd>Del</kbd>
-
 <kbd>Home</kbd>
-
 <kbd>PgUp</kbd>
-
-<kbd>Up</kbd>
-
-<kbd>Down</kbd>
-
-<kbd>Left</kbd>
-
-<kbd>Right</kbd>
+<kbd>Up</kbd><kbd>Down</kbd><kbd>Left</kbd><kbd>Right</kbd>
 
 ### Requirements
 * AutoHotKey
@@ -25,6 +15,9 @@ Some text editors have a mode which disables the backspace key: it usually calle
 ### Usage
 1. Downlad and run
 2. F12 Quits
+
+![](backless.jpg)
+image by [Melissa Beth Rose](https://melissabethrose.com/)
 
 ### Tested On
 Windows 7 32bit and AutoHotKey 1.1.22.07
