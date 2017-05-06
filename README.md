@@ -16,7 +16,7 @@ Some text editors have a mode which disables the backspace key: it usually calle
 1. Downlad and run
 2. F12 Quits
 
-![](backless.jpg)
+![](back.jpg)
 image by [Melissa Beth Rose](https://melissabethrose.com/)
 
 ### Tested On
