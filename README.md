@@ -4,9 +4,13 @@ Some text editors have a mode which disables the backspace key: it usually calle
 ### Backless disables:
 
 <kbd>backspace</kbd>
+
 <kbd>Del</kbd>
+
 <kbd>Home</kbd>
+
 <kbd>PgUp</kbd>
+
 <kbd>Up</kbd><kbd>Down</kbd><kbd>Left</kbd><kbd>Right</kbd>
 
 ### Requirements
@@ -17,6 +21,7 @@ Some text editors have a mode which disables the backspace key: it usually calle
 2. F12 Quits
 
 ![](back.jpg)
+
 image by [Melissa Beth Rose](https://melissabethrose.com/)
 
 ### Tested On
