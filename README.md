@@ -1,5 +1,5 @@
 # Backless
-Some text editors have a mode which disables the backspace key: it usually called Typerwriter Mode, or Productivity Mode, or Hemingway Mode. **Backless** is the same idea, but globally. 
+Some text editors have a mode which disables the backspace key: it's usually called Typerwriter Mode, or Productivity Mode, or Hemingway Mode. **Backless** is the same idea, but globally. 
 
 ### Backless disables:
 
