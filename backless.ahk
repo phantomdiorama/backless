@@ -11,7 +11,9 @@ Return
 Home::
 Return
 PgUp::
-Return 
+Return
++tab::
+Return
 Up::
 Return
 Down::

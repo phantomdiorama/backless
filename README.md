@@ -11,6 +11,8 @@ Some text editors have a mode which disables the backspace key: it's usually cal
 
 <kbd>PgUp</kbd>
 
+<kbd>shift</kbd> + <kbd>tab</kbd>
+
 <kbd>Up</kbd><kbd>Down</kbd><kbd>Left</kbd><kbd>Right</kbd>
 
 ### Requirements
@@ -20,9 +22,9 @@ Some text editors have a mode which disables the backspace key: it's usually cal
 1. Downlad and run
 2. F12 Quits
 
+### Tested On
+Windows 7 32bit and AutoHotKey 1.1.22.07
+
 ![](back.jpg)
 
 image by [Melissa Beth Rose](https://melissabethrose.com/)
-
-### Tested On
-Windows 7 32bit and AutoHotKey 1.1.22.07
