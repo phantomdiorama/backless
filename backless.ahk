@@ -3,7 +3,6 @@
 SendMode Input 
 SetWorkingDir %A_ScriptDir% 
 
-#IfWinActive, ahk_class Notepad2
 SetCapsLockState, AlwaysOff
 Backspace::
 Return
